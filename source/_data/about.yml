@@ -1,0 +1,104 @@
+- class_name: 关于页
+  subtitle: 生活明朗，万物可爱✨
+  avatarImg: https://q.qlogo.cn/g?b=qq&nk=2907713872&s=640
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: S.C.F.C.
+  description: 是一名 学生、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国 无锡市
+    background: https://preview.cloud.189.cn/image/imageAction?param=F6AAF4A1318C50E7A42D891A80F22837A0CA663563E1E528E6EB7958C598D8FED3478CE77FD6C8B891BCBBACC45086AB7D6F69AE84D8ECC8E79FF88C0C51B31A6A147F79DEF805EA093BDBD702C8A9E4EE477B92E30BFDE7439C2B9836C1BDB263A1DCEC8D3DE61904BC62AF455806E65A3FDF19
+    backgroundDark: https://preview.cloud.189.cn/image/imageAction?param=F6AAF4A1318C50E7A42D891A80F22837A0CA663563E1E528E6EB7958C598D8FED3478CE77FD6C8B891BCBBACC45086AB7D6F69AE84D8ECC8E79FF88C0C51B31A6A147F79DEF805EA093BDBD702C8A9E4EE477B92E30BFDE7439C2B9836C1BDB263A1DCEC8D3DE61904BC62AF455806E65A3FDF19
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2010
+    selfInfoTips2: 八士中学
+    selfInfoContent2: 学生
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 初二学生👨‍🎓
+  personalities:
+    author_name: 执政官
+    personality_type: ESFJ-A
+    photo_url: https://pan.scfc.top/view.php/24b1585d9f55a582745c1d663be5d37c.png
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/entp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 山河虽无恙，
+    maxim_bottom: 吾辈当自强。
+  buff:
+    buff_tips: 特长
+    buff_top: 科技狂热者
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 战争雷霆
+    game_uid:  SCFC云天明
+    game_bg: https://preview.cloud.189.cn/image/imageAction?param=A55A872F92154BE8F07BC1BCE26CBD2C11919A37071487F7699BA99A8D1A129A00CD5F24196211BED276F8CC30FFD0C7A957F9433E69471C9059FE4268F2928C53AD4068380D46E9F4D1936C3575CB0D92F3050FA8BF42459696529FBFA3BFA70AB5CC2E52E34F736EB2DFF8EEDC1F3ECBA85FEF
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 凡人修仙传
+        href: https://www.bilibili.com/bangumi/media/md28223043
+        cover: https://preview.cloud.189.cn/image/imageAction?param=F67A1BA5E3CF342F46B748E018CE0D2EB056ED1F054E43CDA1375CF5C5E8E0508F0B570CFB65692E11DF96AEFFE908285FCB497683EB190E2F106EACE22D3FB25C110A019F1A0F971FE29BDCD29634D60621744F862B763A61F6EBFF098A9AD42D640B3D5AA1F8AABC0675CAC2C6B667105D5A23
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+      - name: 中二病也要谈恋爱!
+        href: https://www.bilibili.com/bangumi/media/md4349
+        cover: https://preview.cloud.189.cn/image/imageAction?param=2AEA86387DE53CC6141F2FED1CFBCF43EC20A3EAEA2DA4DB5E6160428407690978A6DC9005434E2FAB13D3DD1FF3960B533AF72DED29FAF9EB4ED2D183C899D71852C3F1FFC52A8D55A85C9ED2323331B684356D672C9DA755EB85CA7B71F584BC36E7BB791B98B34D814295456220BD95B736EE
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 周杰伦、民谣、华语流行
+    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_link: /music
+  reward_list:
+    - name: 星前月下
+      amount: 12
+      datatime: 2024-08-28

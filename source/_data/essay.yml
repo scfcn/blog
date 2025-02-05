@@ -1,0 +1,29 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://api.scfc.top/api/img
+  essay_list:
+    - content: 台风来了,学校放假了,结果台风没来,白嫖一天假期
+      date: 2024-09-20 12:00:00
+      from: SCFC
+      address: 无锡市
+    - content: 下周就考试了,政治还不会，怎么办？
+      date: 2025-01-12 17:00:00
+      from: SCFC
+      address: 无锡市
+    - content: 周三考完了,政治满分,逆天...
+      date: 2025-01-16 10:00:00
+      from: SCFC
+      address: 无锡市
+    - content: 考试结束,考试成绩出来了,好开心啊
+      date: 2025-01-17 10:00:00
+      from: SCFC
+      address: 无锡市
+    - content: 星.fun已经卖给云团子,价格是团ICP的授权
+      date: 2025-01-21 21:00:00
+      from: SCFC
+      address: 无锡市
